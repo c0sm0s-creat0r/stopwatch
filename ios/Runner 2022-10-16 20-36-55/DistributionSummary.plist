@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>stopwatch.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C1F48EF0AE5D2C184C599446CAA3D53D2AE060F0</string>
+				<key>dateExpires</key>
+				<string>17/6/2023</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C1F48EF0AE5D2C184C599446CAA3D53D2AE060F0</string>
+						<key>dateExpires</key>
+						<string>17/6/2023</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MXQ4WHBK2N</string>
+						<key>name</key>
+						<string>Benjamin Dennis</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C1F48EF0AE5D2C184C599446CAA3D53D2AE060F0</string>
+						<key>dateExpires</key>
+						<string>17/6/2023</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>MXQ4WHBK2N</string>
+						<key>name</key>
+						<string>Benjamin Dennis</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MXQ4WHBK2N.com.dennisbe.stopwatch</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MXQ4WHBK2N</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9678c5dd-8b9c-4892-aafb-90c413446ebc</string>
+				<key>dateExpires</key>
+				<string>17/6/2023</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.dennisbe.stopwatch</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MXQ4WHBK2N</string>
+				<key>name</key>
+				<string>Benjamin Dennis</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
